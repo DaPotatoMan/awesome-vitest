@@ -90,6 +90,7 @@
 
 ### Accessibility Testing
 
+- [**@accesslint/vitest**](https://github.com/AccessLint/accesslint/tree/main/vitest) — Run accessibility tests with AccessLint.
 - [**vi-axe**](https://github.com/chaance/vitest-axe) — Run accessibility tests with Axe.
 - [**vitest-accessibility-checker**](https://www.npmjs.com/package/vitest-accessibility-checker) — Run accessibility tests with IBM Equal Access Accessibility Checker.
 
